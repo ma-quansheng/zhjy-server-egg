@@ -15,4 +15,6 @@ module.exports = app => {
   router.get('/notifies/delete', controller.notifies.delete);
 
   router.get('/admin/list', controller.admin.list);
+	
+	router.get('/user/list',controller.user.lst);
 };
