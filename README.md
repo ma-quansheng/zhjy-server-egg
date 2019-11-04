@@ -1,6 +1,7 @@
 # Server-egg
 
 egg 版 智慧家园 服务端
+dkfbnfgngh
 
 ## QuickStart
 
